@@ -28,9 +28,8 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening thinking  how to code.
 
-[![Twitter: ahafeez10557](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/ahafeez10557)
-[![GitHub hafeez10557](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/hafeez10557)
-[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://abdulhafeez.xyz
+[![Twitter: ahafeez10557](https://img.shields.io/twitter/follow/ahafeez10557?style=social)](https://twitter.com/ahafeez10557)
+[![GitHub hafeez10557](https://img.shields.io/github/followers/hafeez10557?label=follow&style=social)](https://github.com/hafeez10557)
 
 
 **Languages and Tools:**  
