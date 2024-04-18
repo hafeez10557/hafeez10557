@@ -20,12 +20,12 @@
 
 
 
-- 🔭 I’m currently working as Freelancer.
+- 🔭 I’m currently working as a Freelancer.
 - 🌱 I’m currently learning more about Flutter.
 - 👯 I’m looking to collaborate on [Flutter](https://abdulhafeez.xyz/).
-- 💬 Ask me about Android or any tech related stuff.
+- 💬 Ask me about Android or any tech-related stuff.
 - 📫 How to reach me: [Twitter - @ahafeez10557](https://twitter.com/ahafeez10557) 
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He
 - ⚡ Fun fact: I spend almost 12 hours listening thinking  how to code.
 
 [![Twitter: ahafeez10557](https://img.shields.io/twitter/follow/ahafeez10557?style=social)](https://twitter.com/ahafeez10557)
